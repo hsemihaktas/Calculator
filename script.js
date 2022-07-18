@@ -36,6 +36,7 @@ function clr()
     document.getElementById("number1").value = ""
     document.getElementById("number2").value = ""
     document.getElementById("result").value = ""
+    count = 1
 }
 
 function sil()
