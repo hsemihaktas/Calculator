@@ -1,7 +1,3 @@
-const result = document.getElementById("result");
-const number1= document.getElementById("number1");
-const number2= document.getElementById("number2");
-
 let count = 1;
 let answer ;
 
